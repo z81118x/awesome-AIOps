@@ -19,8 +19,8 @@
 * [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
 
 ## Course and Slides
-* [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
-* [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
+* [Tsinghua-Peidan](https://netman.aiops.org/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
+* [基于机器学习的智能运维](https://netman.aiops.org/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
 
 ## Industry Practice
 -------------------------------------------------------------------------------
